@@ -1,1 +1,1 @@
-# Discord-clone
+# Discord frontend clone
